@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Cinema A Entertainment Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
+<title> Webies - cinema fictif </title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -157,7 +157,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<script type="text/javascript" src="js/jquery.flexisel.js"></script>	
 		</div>	
 	<div class="footer">
-		<h6>Disclaimer : </h6>
+		<h6>Disclaimer : webies <?php echo date('y'); ?> </h6>
 		<p class="claim">This is a freebies and not an official website, I have no intention of disclose any movie, brand, news.My goal here is to train or excercise my skill and share this freebies.</p>
 		<a href="example@mail.com">example@mail.com</a>
 		<div class="copyright">
